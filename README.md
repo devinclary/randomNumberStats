@@ -14,42 +14,42 @@
 <h3>Example Output</h3>
 
 <p>
---------------------------------------------------
-System 1-makefile.cpp executed. Creating random file.
-Created random file 'random.dat'.
---------------------------------------------------
-Running System 2-statistics.cpp.
-Sorting random.dat file.
-Sorted file 'random.dat' successfully.
-Basic statistics of data:
-Mean: 47.625
-Variance: 82.2044
-Standard Deviation: 9.06666
-Coefficient of Variation: 0.190376
---------------------------------------------------
-Running System 3-distribution.cpp.
-Histogram of data:
-0-5      |
-5-10     |
-10-15    |
-15-20    |*
-20-25    |*
-25-30    |*****
-30-35    |*********
-35-40    |**********************
-40-45    |**********************************
-45-50    |*************************************
-50-55    |***********************************************
-55-60    |**************************
-60-65    |************
-65-70    |******
-70-75    |
-75-80    |
-80-85    |
-85-90    |
-90-95    |
-95-100   |
+<p>--------------------------------------------------
+<p>System 1-makefile.cpp executed. Creating random file.
+<p>Created random file 'random.dat'.
+<p>--------------------------------------------------
+<p>Running System 2-statistics.cpp.
+<p>Sorting random.dat file.
+<p>Sorted file 'random.dat' successfully.
+<p>Basic statistics of data:
+<p>Mean: 47.625
+<p>Variance: 82.2044
+<p>Standard Deviation: 9.06666
+<p>Coefficient of Variation: 0.190376
+<p>--------------------------------------------------
+<p>Running System 3-distribution.cpp.
+<p>Histogram of data:
+<p>0-5      |
+<p>5-10     |
+<p>10-15    |
+<p>15-20    |*
+<p>20-25    |*
+<p>25-30    |*****
+<p>30-35    |*********
+<p>35-40    |**********************
+<p>40-45    |**********************************
+<p>45-50    |*************************************
+<p>50-55    |***********************************************
+<p>55-60    |**************************
+<p>60-65    |************
+<p>65-70    |******
+<p>70-75    |
+<p>75-80    |
+<p>80-85    |
+<p>85-90    |
+<p>90-95    |
+<p>95-100   |
+<p>
+<p>End of program.
+<p>--------------------------------------------------
 
-End of program.
---------------------------------------------------
-</p>
