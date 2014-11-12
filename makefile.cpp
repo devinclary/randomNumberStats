@@ -6,22 +6,15 @@
 // Copyright   : Devin Clary
 // Description : Make a random file, and call statistics programs to analyze 
 //============================================================================
-
-
-
 #include <iostream>
 #include <fstream>
 #include <ctime>
 using namespace std;
-
-
 void rand(int &result, int upperLim ) //generate random number between 1 and upperLim
 {
 
     result=rand()%upperLim;
 }
-
-
 void randomNumSum(int &result, int n, int range) //result=sum of nTimes random numbers in range
 {
     int sum=0;
@@ -33,7 +26,6 @@ void randomNumSum(int &result, int n, int range) //result=sum of nTimes random n
     }
     result=sum;
 }
-
 void makeFileRandNumSum(ofstream &out, int n, int degreeRand, int range) //create n numbers composed of the sum of degreeRand numbers
 {
     int result=0;
